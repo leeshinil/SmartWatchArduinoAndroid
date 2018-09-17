@@ -1,3 +1,3 @@
 # SmartWatchArduinoAndroid
 
-smartwatch uing arduino and andriod studio
+smartwatch using arduino and andriod studio
